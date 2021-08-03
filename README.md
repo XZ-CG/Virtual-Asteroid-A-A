@@ -3,8 +3,6 @@
 The program was writing under windows so you should run it on Windows.
 How to run the program ?
 
-The exe file will come soon.
-
 check if all softwares are installed.
 
 
